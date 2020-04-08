@@ -4,7 +4,14 @@ a:hover {
 #Pride:hover{
   color:green;
 }
-#linktext{
+#linktext:hover{
   color:blue;
-  font-stlye:italic;
+  font-stlye:bold;
+}
+#whitetext{
+  color:white;
+}
+#whitetext:hover{
+  color:#76a6f5;
+  font-style:bold;
 }
